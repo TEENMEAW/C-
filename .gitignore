@@ -1,0 +1,4 @@
+echo "hello" >> .gitignore
+echo "mario" >> .gitignore
+echo "contact" >> .gitignore
+echo "*.out" >> .gitignore
